@@ -4,9 +4,6 @@
 
 Discord encouragement bot 
 
-
-
-
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
 A bot in discord server that gives encouragement 
@@ -14,10 +11,12 @@ A bot in discord server that gives encouragement
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-
+  For this project we will be having an discord bot that will exacute encouragement and insults base on the bot command typed. My bot will be exacuting base off the commands that is inserted which can only be -p encourge me  or -p insult.For the insult command to work the person need to type -p insult and the person's discord ID for this comand to work then the bot will use an algorithm to implent insults. On the other hand encouragement will work an little different, for this command you need to -p encourage me without need the ID.The bot will then start encouraging you base off simple text back and front. When complicated words are typed the bot will end the algorithm.Additionally if we were able to finish on time we might even add more bot commends such as playing music commands. 
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
+    Anna Lu, AnnaLu101011@gmail.com  Ta- Tamara Katic
+    Zhiyi,   zhiyiliu123@gmail.com   Ta- Chong Li 
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
