@@ -6,7 +6,7 @@ Discord encouragement bot
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A bot in discord server that gives encouragement 
+A bot in discord server that gives encouragement and insults 
 
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
