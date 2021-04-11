@@ -11,7 +11,7 @@ A bot in discord server that gives encouragement and insults
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-  For this project we will be having an discord bot that will exacute encouragement and insults base on the bot command typed. My bot will be exacuting base off the commands that is inserted which can only be -p encourge me  or -p insult.For the insult command to work the person need to type -p insult and the person's discord ID for this comand to work then the bot will use an algorithm to implent insults. On the other hand encouragement will work an little different, for this command you need to -p encourage me without need the ID.The bot will then start encouraging you base off simple text back and front. When complicated words are typed the bot will end the algorithm.Additionally if we were able to finish on time we might even add more bot commends such as playing music commands. 
+  For this project we will be having an discord bot that will exacute encouragement and insults base off the bot command typed.Our bot will be exacuting base off the commands that is inserted which can only be -p encourge me  or -p insult.For the insult command to work, a person will need to type -p insult and the person's discord ID for this comand to work then the bot will use an algorithm to implent insults. On the other hand encouragement will work an little different, for this command you need to -p encourage me without needing the discord ID.The bot will then start encouraging you base off simple text back and forth. When complicated words are typed the bot will end the conversation .Additionally if we were able to finish on time we might even add more bot commends such as playing music commands. 
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
@@ -31,7 +31,7 @@ I will have an bot implemented in my discord server working to some extend witho
 
 ### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
 
-I will have my bot implemented in my discord server fully working and ready to encourage me whenever. 
+I will have my bot implemented in my discord server fully working and ready to do whats commanded. 
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
